@@ -1,5 +1,5 @@
 # Amera Deep Osint v1.0 🕵️
-![banner image](https://github.com/anezatra/amera/blob/main/banner.jpg)
+![banner image](https://github.com/anezatra-katedram/amera/blob/main/banner.jpg)
 ## What is a Amera?
 **Amera performs extensive searches on websites using the special libraries it uses. It is intended that various files, photos, users and information on the websites can be easily found by search operators. It can also pull data such as open source cookies, passwords, API keys.**
 ## Exploited vulnerabilities 🏴‍☠️
